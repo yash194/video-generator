@@ -164,8 +164,8 @@ class AudioGenerator:
                 temperature=1.0
             )
         
-        # Save audio
-        audio_arr = generation.cpu().numpy().squeeze()
+        # Save audio (convert to float32 for soundfile compatibility)
+        audio_arr = generation.cpu().float().numpy().squeeze()
         sf.write(output_path, audio_arr, self.model.config.sampling_rate)
         
         return output_path
