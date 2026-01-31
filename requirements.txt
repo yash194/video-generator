@@ -1,0 +1,36 @@
+# Video Generation Pipeline Requirements
+
+# PyTorch (install with CUDA support for your system)
+# Visit: https://pytorch.org/get-started/locally/
+torch>=2.0.0
+torchvision
+torchaudio
+
+# Diffusers for image/video generation
+diffusers>=0.27.0
+transformers>=4.40.0
+accelerate>=0.28.0
+safetensors
+
+# Audio generation
+parler-tts>=0.2.0
+soundfile
+
+# Video processing
+moviepy>=1.0.3
+opencv-python>=4.8.0
+
+# Image processing
+Pillow>=10.0.0
+
+# PDF extraction (for ext.py)
+pymupdf>=1.24.0
+pdfplumber>=0.10.0
+
+# LLM APIs (for director.py)
+openai>=1.0.0
+google-generativeai>=0.5.0
+
+# Utilities
+tqdm
+numpy
