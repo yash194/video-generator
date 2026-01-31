@@ -14,6 +14,7 @@ safetensors
 
 # Audio generation
 parler-tts>=0.2.0
+kokoro>=0.8.0
 soundfile
 
 # Video processing
