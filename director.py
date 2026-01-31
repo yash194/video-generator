@@ -29,8 +29,9 @@ except ImportError:
     OPENAI_AVAILABLE = False
 
 
-SCENE_PROMPT = """You are a cinematic video director. Convert this content chunk into ONE video scene.
-
+SCENE_PROMPT = """You are a cinematic and educational video director. Convert this content chunk into ONE video scene.
+Your goal is to convert a textbook excerpt into a clear, engaging, and scientifically accurate video scene.
+You prioritize student understanding and keyword retention over purely artistic flair.
 Content:
 ---
 {chunk}
@@ -39,7 +40,7 @@ Content:
 Return ONLY a JSON object with exactly 3 fields:
 
 {{
-    "narration_text": "The voiceover script for this scene (50-80 words, natural speaking style)",
+    "narration_text": "The voiceover script for this scene. IMPORTANT: Keep it SHORT - exactly 15-20 words maximum. This must fit in a 6-second video clip. Be concise and impactful.",
     
     "visual_prompt": "Detailed image generation prompt: describe the main visual, environment, lighting, style. Include: photorealistic, 8k, cinematic. Be specific about what to show.",
     
@@ -86,12 +87,12 @@ class Director:
         if not self.provider:
             raise ValueError("No LLM available. Set OPENAI_API_KEY or GOOGLE_API_KEY")
     
-    def break_into_scenes(self, text: str, words_per_scene: int = 150) -> list:
+    def break_into_scenes(self, text: str, words_per_scene: int = 30) -> list:
         """
         Break text into scene-sized chunks.
         
         Uses paragraph boundaries when possible.
-        Target: ~150 words per scene (roughly 20-30 seconds of narration)
+        Target: ~30 words per scene (roughly 4-5 seconds of narration)
         """
         # Split by paragraphs (double newlines or page markers)
         paragraphs = re.split(r'\n\s*\n|## Page \d+', text)
@@ -159,7 +160,7 @@ class Director:
                 "motion_prompt": "slow zoom in, 5s"
             }
     
-    def create_screenplay(self, text: str, words_per_scene: int = 150) -> list:
+    def create_screenplay(self, text: str, words_per_scene: int = 30) -> list:
         """
         Process text and create full screenplay scene by scene.
         
@@ -188,13 +189,14 @@ class Director:
         
         return scenes
     
-    def direct_from_file(self, input_path: str, output_path: str = None) -> str:
+    def direct_from_file(self, input_path: str, output_path: str = None, words_per_scene: int = 30) -> str:
         """
         Read text file and create screenplay.
         
         Args:
             input_path: Path to extracted text file
             output_path: Output JSON path
+            words_per_scene: Target words per scene (affects number of scenes)
             
         Returns:
             Path to output file
@@ -205,8 +207,8 @@ class Director:
         with open(input_path, "r", encoding="utf-8") as f:
             text = f.read()
         
-        # Create screenplay
-        scenes = self.create_screenplay(text)
+        # Create screenplay with specified words per scene
+        scenes = self.create_screenplay(text, words_per_scene=words_per_scene)
         
         # Prepare output
         screenplay = {
@@ -232,14 +234,14 @@ def main():
     parser = argparse.ArgumentParser(description="Scene-by-scene video director")
     parser.add_argument("input", help="Extracted text file")
     parser.add_argument("-o", "--output", help="Output JSON path")
-    parser.add_argument("--words-per-scene", type=int, default=150, 
-                        help="Target words per scene (default: 150)")
+    parser.add_argument("--words-per-scene", type=int, default=30, 
+                        help="Target words per scene (default: 30 for ~6s video)")
     parser.add_argument("--provider", choices=["openai", "gemini", "auto"], default="auto")
     
     args = parser.parse_args()
     
     director = Director(provider=args.provider)
-    director.direct_from_file(args.input, args.output)
+    director.direct_from_file(args.input, args.output, words_per_scene=args.words_per_scene)
     
     print("\n🎬 Done!")
 

@@ -1,0 +1,321 @@
+{
+  "source_file": "10thsc.txt",
+  "total_scenes": 45,
+  "scenes": [
+    {
+      "narration_text": "Prepare for an immersive journey into Chapter Eight's scientific wonders and intriguing discoveries.",
+      "visual_prompt": "A photorealistic, 8k, cinematic scene of a grand library filled with ancient books, warm lighting casting soft shadows, and an open book with glowing pages as the focal point.",
+      "motion_prompt": "The pages of the book flip gently as golden particles rise from them. Camera slowly zooms in on the book. Soft ambient light filters through the library windows.",
+      "scene_id": 1,
+      "source_text": "# CHAP 8.pmd\n\n8\nCHAPTER"
+    },
+    {
+      "narration_text": "QR codes: black squares, white grid, corner markers, scan to reveal hidden info.",
+      "visual_prompt": "Close-up of a QR code with sharp black squares on a white grid, 3D depth, photorealistic, 8k, cinematic lighting. Three larger squares in the corners are prominent.",
+      "motion_prompt": "The QR code slowly rotates on its axis, squares subtly animate to highlight orientation. Camera gently zooms in with a slight tilt, creating a dynamic view. Background remains a clean white grid.",
+      "scene_id": 2,
+      "source_text": "---\n**[Figure/Diagram]**\nThis is a QR code, which is a type of matrix barcode. It consists of a pattern of black squares arranged on a white grid. There are three larger squares in the corners, which help QR code readers determine orientation. Below the QR code, there is a text \"1064CH09,\" which might be an identifier or code related to the content or context of this QR code. Scanning the QR code with a compatible device will reveal its encoded information.\n---\n\nHeredity"
+    },
+    {
+      "narration_text": "Genetic variations accumulate across generations, driving diversity and evolution in species over time.",
+      "visual_prompt": "Cinematic view of a DNA strand with bright, glowing nucleotides intertwining, set against a dark, blurred lab background. Photorealistic, 8k detail.",
+      "motion_prompt": "DNA strand slowly twists and glows brighter. Camera gently rotates around the strand. Lab background stays soft-focused.",
+      "scene_id": 3,
+      "source_text": "---\n**[Figure/Diagram]**\nThe image contains a section from an educational text about variation during reproduction, specifically focusing on the concept of accumulation of variation. Here's a detailed description:"
+    },
+    {
+      "narration_text": "Reproduction creates unique individuals, maximizing variation through sexual processes, evident in animals, unlike plants.",
+      "visual_prompt": "A cinematic split-screen: on one side, a sugarcane field with minimal variation; on the other, diverse human faces showcasing variation. Photorealistic, 8k resolution, with golden hour lighting highlighting differences.",
+      "motion_prompt": "Sugarcane gently sways in the breeze on the left; diverse faces subtly change expressions on the right. Camera slowly pans from left to right, emphasizing contrast. Background remains softly blurred.",
+      "scene_id": 4,
+      "source_text": "### Text:\n- **Overview of Reproductive Processes:** \n  - Discusses how reproduction leads to new individuals that are similar but subtly different.\n  - Highlights how variations occur even in asexual reproduction, with sexual reproduction maximizing successful variations.\n  - Mentions that plants like sugarcane show little variation, whereas animals, including humans, show distinct variations."
+    },
+    {
+      "narration_text": "Each generation subtly alters its inherited design, accumulating variations over time.",
+      "visual_prompt": "A photorealistic depiction of a family tree with branching lines representing generations. Each branch slightly alters in style and color, illustrating variation. Cinematic 8k resolution, with soft natural lighting highlighting the branches.",
+      "motion_prompt": "Branches on the family tree slowly grow and twist, showcasing subtle differences. Camera gently pans up the tree, capturing the evolution of each branch. The environment is a tranquil garden with soft sunlight filtering through leaves.",
+      "scene_id": 5,
+      "source_text": "- **Section 8.1: Accumulation of Variation During Reproduction:** \n  - Explains that inheritance provides a basic body design with subtle changes for subsequent generations.\n  - Describes how each generation adds its own differences upon reproduction, relating to Figure 8.1."
+    },
+    {
+      "narration_text": "Observe how diversity evolves with each generation, highlighting nature's creative process over time.",
+      "visual_prompt": "A branching diagram illustrating organism evolution over generations. The original organism at the top branches into two, each slightly varied. Further branching shows increased diversity. Photorealistic, 8k, cinematic lighting with a clear, educational style.",
+      "motion_prompt": "Diagram elements draw themselves on screen sequentially, showing branching lineage. Camera holds static with slight breathing motion. Background features subtle, gentle animations of natural elements.",
+      "scene_id": 6,
+      "source_text": "### Diagram (Figure 8.1):\n- **Visual Content:** \n  - Illustrates the creation of diversity over successive generations.\n  - Shows an original organism at the top giving rise to two individuals, each slightly different.\n  - These individuals further reproduce to give rise to two more individuals each, displaying even more diversity."
+    },
+    {
+      "narration_text": "DNA errors in asexual reproduction cause variations; sexual reproduction leads to greater diversity.",
+      "visual_prompt": "A photorealistic, 8k cinematic scene of DNA strands intertwining. Soft, ambient lighting highlights the double helix structure against a dark, blurred background. Show intricate details of the molecular bonds.",
+      "motion_prompt": "DNA strands twist and intertwine slowly. Camera orbits around the helix, maintaining focus on the molecular bonds. Background remains softly blurred, enhancing depth and focus on the DNA.",
+      "scene_id": 7,
+      "source_text": "- **Description:** \n  - Indicates how even slight DNA inaccuracies in asexual reproduction cause variations.\n  - Suggests sexual reproduction leads to even greater diversity."
+    },
+    {
+      "narration_text": "Genetic variations accumulate through reproduction, diversifying populations with unique evolutionary mechanisms.",
+      "visual_prompt": "A diverse population of animals depicted in a lush forest habitat, under warm, golden lighting. Photorealistic, 8k, cinematic style. Show various species interacting harmoniously.",
+      "motion_prompt": "Animals subtly shift and move within their habitat, showcasing diversity. Camera gently pans across the scene, capturing the variety of species. Sun rays filter through the trees, casting dynamic shadows.",
+      "scene_id": 8,
+      "source_text": "Overall, the text and figure together explain how variations accumulate in populations through reproduction, with different mechanisms enhancing this diversity to varying extents.\n---"
+    },
+    {
+      "narration_text": "Sexual reproduction creates diverse individuals with inherited and unique variations over generations.",
+      "visual_prompt": "A photorealistic, 8k, cinematic field with diverse plants and animals. Morning sunlight casts soft shadows, highlighting variations among organisms. Display a mix of close-up and wide shots, emphasizing individual differences.",
+      "motion_prompt": "Plants and animals subtly sway in a gentle breeze. Camera pans slowly across the field, capturing diversity and variations. Sunlight shifts, creating dynamic light patterns on the subjects.",
+      "scene_id": 9,
+      "source_text": "W\ne have seen that reproductive processes give rise to new individuals\nthat are similar, but subtly different. We have discussed how some\namount of variation is produced even during asexual reproduction. And\nthe number of successful variations are maximised by the process of\nsexual reproduction. If we observe a field of sugarcane we find very little\nvariations among the individual plants. But in a number of animals\nincluding human beings, which reproduce sexually, quite distinct\nvariations are visible among different individuals. In this chapter, we\nshall be studying the mechanism by which variations are created and\ninherited.\n8.1\n8.1\n8.1\n8.1\n8.1 ACCUMUL\nCCUMUL\nCCUMUL\nCCUMUL\nCCUMULATION OF V\nTION OF V\nTION OF V\nTION OF V\nTION OF VARIA\nARIA\nARIA\nARIA\nARIATION\nTION\nTION\nTION\nTION\nDURING REPRODUCTION\nDURING REPRODUCTION\nDURING REPRODUCTION\nDURING REPRODUCTION\nDURING REPRODUCTION\nInheritance from the previous generation provides\nboth a common basic body design, and subtle\nchanges in it, for the next generation. Now think\nabout what would happen when this new generation,\nin its turn, reproduces. The second generation will\nhave differences that they inherit from the first\ngeneration, as well as newly created differences\n(Fig. 8.1).\nFigure 8.1 would represent the situation if a\nsingle individual reproduces, as happens in asexual\nreproduction. If one bacterium divides, and then the\nresultant two bacteria divide again, the four\nindividual bacteria generated would be very similar.\nThere would be only very minor differences between\nthem, generated due to small inaccuracies in DNA\ncopying. However, if sexual reproduction is involved,\neven greater diversity will be generated, as we will\nsee when we discuss the rules of inheritance.\nDo all these variations in a species have equal\nchances of surviving in the environment in which they\nfind themselves? Obviously not. Depending on the\nnature of variations, different individuals would have\nFigure 8.1\nFigure 8.1\nFigure 8.1\nFigure 8.1\nFigure 8.1\nCreation of diversity over succeeding\ngenerations. The original organism at the top\nwill give rise to, say, two individuals, similar\nin body design, but with subtle differences.\nEach of them, in turn, will give rise to two\nindividuals in the next generation. Each of\nthe four individuals in the bottom row will\nbe different from each other. While some of\nthese differences will be unique, others will\nbe inherited from their respective parents,\nwho were different from each other.\nScience\n128\nReprint 2025-26"
+    },
+    {
+      "narration_text": "Heat-resistant bacteria survive better, showing natural selection and evolution in action.",
+      "visual_prompt": "Photorealistic, 8k, cinematic scene of bacteria thriving in a heatwave. Show vibrant, microscopic bacteria with heatwaves visible. Use warm lighting to emphasize heat, with detailed textures of bacterial structures.",
+      "motion_prompt": "Bacteria subtly pulsate and multiply under heat. Camera slowly zooms in on the bacteria colony. Background shows shimmering heatwaves, enhancing the sense of warmth.",
+      "scene_id": 10,
+      "source_text": "different kinds of advantages. Bacteria that can withstand heat will survive\nbetter in a heat wave, as we have discussed earlier. Selection of variants\nby environmental factors forms the basis for evolutionary processes, as\nwe will discuss in later sections.\nQ\nU\nE\nS\nT\nI\nO\nN\nS\n?\n1.\nIf a trait A exists in 10% of a population of an asexually reproducing\nspecies and a trait B exists in 60% of the same population, which trait\nis likely to have arisen earlier?\n\n---\n**[Figure/Diagram]**\nThe image is a page from an educational book discussing heredity. Here's a breakdown of its content:\n\n### Text Sections"
+    },
+    {
+      "narration_text": "Heredity shapes life, passing traits through generations, creating similar yet unique individuals.",
+      "visual_prompt": "A photorealistic 8k cinematic depiction of a DNA strand glowing softly, surrounded by abstract symbols representing traits. The background is a soft gradient, with warm lighting illuminating the DNA structure intricately. Include elements of nature subtly integrated, like leaves or small branches entwining with the DNA.",
+      "motion_prompt": "The DNA strand gently twists and rotates, with trait symbols pulsating in sync. The camera slowly zooms in, with a slight parallax effect, focusing on the DNA's intricate details. Soft ambient particles drift in the background, creating a serene atmosphere.",
+      "scene_id": 11,
+      "source_text": "- **8.2 Heredity**:\n  - Describes the reproduction process resulting in individuals with a similar design and how heredity rules determine the inheritance of traits."
+    },
+    {
+      "narration_text": "Inherited traits show human diversity despite shared basic features, highlighting our unique variations.",
+      "visual_prompt": "A diverse group of people standing together, each displaying distinct features. Bright, natural lighting. Photorealistic, 8k, cinematic style.",
+      "motion_prompt": "Each person's face and features subtly showcase differences. Camera gently pans across the group. Soft ambient light enhances diversity.",
+      "scene_id": 12,
+      "source_text": "- **8.2.1 Inherited Traits**:\n  - Explores similarities and differences in traits, emphasizing variations in human populations despite inheriting basic human features."
+    },
+    {
+      "narration_text": "Observe classmates' earlobes, calculate traits, and explore genetic inheritance patterns.",
+      "visual_prompt": "Close-up of diverse students examining each other's earlobes in a bright classroom. Photorealistic, 8k, cinematic lighting highlights their expressions of curiosity.",
+      "motion_prompt": "Students gently turn heads to show earlobes. Camera smoothly pans across the classroom, highlighting each student's earlobes. Classroom environment remains lively and engaging.",
+      "scene_id": 13,
+      "source_text": "- **Activity 8.1**:\n  - Students are instructed to observe classmates' earlobes (free or attached), list, calculate percentages, and study parental earlobes to suggest an inheritance rule."
+    },
+    {
+      "narration_text": "Mendel discovered inheritance rules: traits from both parents determine offspring characteristics.",
+      "visual_prompt": "Show a close-up of a child's ears, one with free earlobes, the other with attached earlobes. Photorealistic, 8k, cinematic lighting highlighting the textures of the skin and ears in a softly lit room.",
+      "motion_prompt": "The child's head turns slightly to showcase both ear types. Camera gently pans from one ear to the other. Soft focus on the background with warm lighting.",
+      "scene_id": 14,
+      "source_text": "- **8.2.2 Rules for the Inheritance of Traits – Mendel’s Contributions**:\n  - Highlights that inheritance involves genetic contributions from both parents, affecting trait versions in offspring.\n\n### Images\n\n- **Figure 8.2**:\n  - Contains two labeled images showing:\n    - (a) Free earlobes\n    - (b) Attached earlobes\n\n### Additional Notes"
+    },
+    {
+      "narration_text": "Earlobe types exemplify heredity, showcasing Mendel's genetic principles of DNA fusion from parents.",
+      "visual_prompt": "Close-up of diverse earlobes with varying attachments, illuminated by warm sunlight. Photorealistic, 8k, cinematic style, with a soft focus background.",
+      "motion_prompt": "Earlobes slightly sway as gentle breeze passes. Camera slowly pans left to reveal different earlobe types. Background remains softly blurred.",
+      "scene_id": 15,
+      "source_text": "- The focus is on the study of earlobe types as a practical example to understand the basics of heredity and trait inheritance.\n- References Mendel's contributions to genetics, indicating the fusion of maternal and paternal DNA in inheritance patterns.\n---"
+    },
+    {
+      "narration_text": "Variation in species enhances survival through inherited traits, ensuring diversity and adaptability.",
+      "visual_prompt": "Photorealistic, 8k, cinematic close-up of diverse human faces of different ethnicities, showcasing genetic variation. Soft, natural lighting highlights distinct features against a blurred natural background.",
+      "motion_prompt": "Faces subtly shift expressions, showing slight movements in eyes and lips. Camera smoothly pans across the faces, capturing each in turn. Background remains softly out of focus, enhancing depth.",
+      "scene_id": 16,
+      "source_text": "2.\nHow does the creation of variations in a species promote survival?\n8.2 HEREDITY\n8.2 HEREDITY\n8.2 HEREDITY\n8.2 HEREDITY\n8.2 HEREDITY\nThe most obvious outcome of the reproductive process still remains the\ngeneration of individuals of similar design. The rules of heredity determine\nthe process by which traits and characteristics are reliably inherited. Let\nus take a closer look at these rules.\n8.2.1 Inherited Traits\nWhat exactly do we mean by similarities and differences? We know that\na child bears all the basic features of a human being. However, it does\nnot look exactly like its parents, and human populations show a great\ndeal of variation."
+    },
+    {
+      "narration_text": "Explore the detailed anatomy of the human ear, focusing on the auricle and earlobe.",
+      "visual_prompt": "A photorealistic, 8k, cinematic close-up of a person's ear with short brown hair and light skin tone. The auricle and earlobe are clearly visible, captured outdoors in bright natural lighting, with part of the face included for context.",
+      "motion_prompt": "The ear slightly moves as if sensing sound waves. Camera gently zooms into the ear's intricate details. Bright outdoor lighting enhances the scene.",
+      "scene_id": 17,
+      "source_text": "---\n**[Figure/Diagram]**\nThe image shows a close-up of a person's ear and part of their face. The focus is on the ear, with details such as the auricle and earlobe visible. The person has short, brown hair. The skin tone appears light, and the lighting suggests the image was taken outdoors or in bright conditions. The ear is centrally positioned, and the image captures part of the side of the face.\n---"
+    },
+    {
+      "narration_text": "Observe earlobes in class and correlate with parents to deduce inheritance patterns.",
+      "visual_prompt": "A classroom setting with diverse students, focusing on their earlobes. Bright, natural lighting highlights details. Photorealistic, 8k, cinematic style.",
+      "motion_prompt": "Students' earlobes highlighted with subtle animation, labels appear. Camera gently pans across the classroom. Background shows a softly blurred chalkboard with genetic diagrams.",
+      "scene_id": 18,
+      "source_text": "Activity 8.1\nActivity 8.1\nActivity 8.1\nActivity 8.1\nActivity 8.1\nn\nObserve the ears of all the students in the class. Prepare a list of\nstudents having free or attached earlobes and calculate the\npercentage of students having each (Fig. 8.2). Find out about the\nearlobes of the parents of each student in the class. Correlate the\nearlobe type of each student with that of their parents. Based on\nthis evidence, suggest a possible rule for the inheritance of earlobe\ntypes.\n(a)"
+    },
+    {
+      "narration_text": "Observe the intricate details of the human ear's outer structure, crucial for hearing.",
+      "visual_prompt": "A photorealistic, 8k, cinematic close-up of a human ear's outer structure, with light skin tone and slightly visible hair. The earlobe and outer edge are in sharp focus against a softly blurred background.",
+      "motion_prompt": "The ear subtly twitches as if sensing sound. Camera executes a slow zoom-in, enhancing focus on the ear's details. Background remains softly blurred.",
+      "scene_id": 19,
+      "source_text": "---\n**[Figure/Diagram]**\nThe image is a close-up of a human ear. It shows the outer ear structure, including parts of the earlobe and the outer edge of the ear. The skin tone is light, and there is a small part of hair visible on the left side of the image. The background is blurred, focusing attention on the ear.\n---"
+    },
+    {
+      "narration_text": "Mendel unveiled the principles of genetic inheritance, explaining traits like free and attached earlobes.",
+      "visual_prompt": "Photorealistic, 8k, cinematic: Close-up of diverse human earlobes, some free, others attached, set against a soft-focus scientific backdrop. Gentle, natural lighting highlights texture and detail, showcasing genetic diversity.",
+      "motion_prompt": "Ear illustrations animate transforming from free to attached. Camera slowly zooms out to reveal Mendel's portrait. Background remains softly blurred with gentle movement to convey a scientific setting.",
+      "scene_id": 20,
+      "source_text": "8.2.2 Rules for the Inheritance of Traits –\nMendel’s Contributions\n(b)\nFigure 8.2\nFigure 8.2\nFigure 8.2\nFigure 8.2\nFigure 8.2\n(a) Free and (b) attached\nearlobes. The lowest part\nof the ear, called the\nearlobe, is closely attached\nto the side of the head in\nsome of us, and not\nin others. Free and\nattached earlobes are two\nvariants found in human\npopulations.\nThe rules for inheritance of such traits in human beings are related to\nthe fact that both the father and the mother contribute practically equal\namounts of genetic material to the child. This means that each trait can\nbe influenced by both paternal and maternal DNA. Thus, for each trait\nthere will be two versions in each child. What will, then, the trait seen in\nthe child be? Mendel (see box) worked out the main rules of such\ninheritance, and it is interesting to look at some of his experiments from\nmore than a century ago.\nHeredity\n129\nReprint 2025-26\n\nGregor Johann Mendel (1822–1884)"
+    },
+    {
+      "narration_text": "Meet the intellectual pioneer, captured in timeless monochrome. Discover his profound legacy.",
+      "visual_prompt": "A photorealistic, 8k, cinematic black-and-white portrait of a man with glasses, short neat hair, wearing a formal suit with a high-collared shirt. The plain background enhances the classic and formal look, framed simply, capturing an intellectual essence.",
+      "motion_prompt": "The man's eyes glint subtly behind glasses, exuding wisdom. Camera slowly zooms in, focusing on facial details. The plain background remains static, enhancing the portrait's timeless quality.",
+      "scene_id": 21,
+      "source_text": "---\n**[Figure/Diagram]**\nThe image is a black-and-white portrait of a man with glasses. He has short, neatly styled hair and is wearing a formal suit with a high-collared shirt. The background is plain, and the image is framed within a simple border. The photograph gives a classic and formal impression.\n---"
+    },
+    {
+      "narration_text": "Mendel combined science and math to revolutionize inheritance laws by counting pea plant traits.",
+      "visual_prompt": "A serene monastery garden with a focus on Mendel, a monk, examining pea plants. Sunlight filters through trees, casting dappled shadows. Photorealistic, 8k, cinematic style.",
+      "motion_prompt": "Mendel gently inspects pea plants, tallying traits in a notebook. Camera slowly circles around him, capturing his focused expression. Leaves softly rustle in the breeze.",
+      "scene_id": 22,
+      "source_text": "Mendel was educated in a monastery and went on to study science and\nmathematics at the University of Vienna. Failure in the examinations for a\nteaching certificate did not suppress his zeal for scientific quest. He went\nback to his monastery and started growing peas. Many others had studied\nthe inheritance of traits in peas and other organisms earlier, but Mendel\nblended his knowledge of science and mathematics and was the first one\nto keep count of individuals exhibiting a particular trait in each generation.\nThis helped him to arrive at the laws of inheritance."
+    },
+    {
+      "narration_text": "Mendel's pea plant experiment revealed how traits pass through generations, focusing on plant height.",
+      "visual_prompt": "A detailed, photorealistic, 8k cinematic image showing Mendel's pea plants of varying heights in a lush garden setting, under warm sunlight with gentle shadows.",
+      "motion_prompt": "Pea plants gradually grow taller from seedlings to full height. Camera pans upward slowly, capturing the growth progression. Sunlight filters through the leaves, creating subtle moving shadows on the ground.",
+      "scene_id": 23,
+      "source_text": "---\n**[Figure/Diagram]**\nThe image illustrates Mendel's experiment on the inheritance of traits over two generations, focusing on the height of pea plants."
+    },
+    {
+      "narration_text": "Cross-pollinate tall and short plants: tall TT, short tt. Observe genetic inheritance.",
+      "visual_prompt": "Close-up of two plants: one tall, vibrant green, another short, lush. Sunlight casts soft shadows. Photorealistic, 8k, cinematic.",
+      "motion_prompt": "Pollen gently drifts between tall and short plants. Camera pans slowly from left to right. Sunlight filters through leaves.",
+      "scene_id": 24,
+      "source_text": "1. **Parental Generation (P):** \n   - Two types of plants: Tall (TT) and Short (tt).\n   - Cross-pollination between Tall and Short plants."
+    },
+    {
+      "narration_text": "All F1 generation plants are tall, showcasing the dominance of the tall trait.",
+      "visual_prompt": "A close-up of a lush green field with tall plants. Bright daylight casts sharp shadows. Photorealistic, 8k, cinematic.",
+      "motion_prompt": "Tall plants sway gently in the breeze. Camera pans slowly across the field. Light flares occasionally.",
+      "scene_id": 25,
+      "source_text": "2. **First Filial Generation (F1):** \n   - All offspring are Tall (Tt).\n   - Demonstrates no intermediate height, indicating the dominance of the Tall trait."
+    },
+    {
+      "narration_text": "F2 generation: Self-pollination yields a 3 Tall to 1 Short phenotypic plant ratio.",
+      "visual_prompt": "Photorealistic diagram of pea plants, showing tall and short variants, in a sunlit greenhouse. 8k, cinematic.",
+      "motion_prompt": "Pea plant heights animate growing from seeds, revealing tall and short plants. Camera pans from left to right. Sunlight filters through glass, highlighting plants.",
+      "scene_id": 26,
+      "source_text": "3. **Second Filial Generation (F2):**\n   - Self-pollination of F1 plants.\n   - Results in a ratio of:\n     - Tall (TT)\n     - Tall (Tt)\n     - Tall (Tt)\n     - Short (tt)\n   - Shows a phenotypic ratio of 3 Tall : 1 Short."
+    },
+    {
+      "narration_text": "Traits pass in units; tallness dominates shortness. What experiment confirms this 3:1 ratio?",
+      "visual_prompt": "A photorealistic 8k cinematic close-up of a Mendelian pea plant, showing tall and short plants side by side. Warm sunlight highlights the taller plant's height disparity, with a subtle breeze. Background is a blurred garden with rich greens.",
+      "motion_prompt": "The taller plant sways gently in the breeze, overshadowing the shorter plant. Camera slowly pans from the short plant to the tall plant, highlighting the height difference. Background garden remains static, enhancing the focus on the plants.",
+      "scene_id": 27,
+      "source_text": "The diagram supports the idea that traits are inherited in discrete units (genes), with tallness being a dominant trait over shortness. A conceptual box asks what experiment could confirm this 3:1 ratio.\n---"
+    },
+    {
+      "narration_text": "Mendel's peas reveal dominant tall trait over recessive short in inheritance patterns.",
+      "visual_prompt": "A close-up of a garden pea plant showing tall and short plants side by side. Photorealistic, 8k, cinematic lighting with a soft, natural glow. The background is a blurred garden environment, emphasizing the contrasting plant heights.",
+      "motion_prompt": "The tall and short pea plants sway gently in a light breeze. Camera slowly pans from the short plant to the tall one, emphasizing contrast. The garden environment remains static in the background.",
+      "scene_id": 28,
+      "source_text": "Mendel used a number of contrasting visible characters of garden\npeas – round/wrinkled seeds, tall/short plants, white/violet flowers and\nso on.  He took pea plants with different characteristics – a tall plant and\na short plant, produced progeny by crossing them, and calculated the\npercentages of tall or short progeny.\nIn the first place, there were no halfway characteristics in this first-\ngeneration, or F1 progeny – no ‘medium-height’ plants. All plants were\ntall. This meant that only one of the parental traits\nwas seen, not some mixture of the two. So the next\nquestion was, were the tall plants in the F1\ngeneration exactly the same as the tall plants of the\nparent generation? Mendelian experiments test this\nby getting both the parental plants and these F1 tall\nplants to reproduce by self-pollination. The progeny\nof the parental plants are, of course, all tall. However,\nthe second-generation, or F2, progeny of the F1 tall\nplants are not all tall. Instead, one quarter of them\nare short. This indicates that both the tallness and\nshortness traits were inherited in the F1 plants, but\nonly the tallness trait was expressed. This led Mendel\nto propose that two copies of factor (now called genes)\ncontrolling traits are present in sexually reproducing\norganism. These two may be identical, or may be\ndifferent, depending on the parentage. A pattern of\ninheritance can be worked out with this assumption,\nas shown in Fig. 8.3.\nFigure 8.3\nFigure 8.3\nFigure 8.3\nFigure 8.3\nFigure 8.3\nInheritance of traits\nover two generations\nActivity 8.2\nActivity 8.2\nActivity 8.2\nActivity 8.2\nActivity 8.2\nn\nIn Fig. 8.3, what experiment would we do to confirm that the F2\ngeneration did in fact have a 1:2:1 ratio of TT, Tt and tt trait\ncombinations?\nIn this explanation, both TT and Tt are tall plants, while only tt is a\nshort plant. In other words, a single copy of ‘T’ is enough to make the\nplant tall, while both copies have to be ‘t’ for the plant to be short. Traits\nlike ‘T’ are called dominant traits, while those that behave like ‘t’ are\ncalled recessive traits. Work out which trait would be considered\ndominant and which one recessive in Fig. 8.4.\nScience\n130\nReprint 2025-26"
+    },
+    {
+      "narration_text": "Discover how pea plant traits recombine, revealing independent inheritance in F2 progeny.",
+      "visual_prompt": "A photorealistic 8k cinematic scene of pea plants in a serene garden. Tall plants with round seeds and short plants with wrinkled seeds are prominently displayed, backlit by golden sunlight filtering through leaves. Detailed close-up of seeds showing texture and shape differences.",
+      "motion_prompt": "Pea plants gently sway in a light breeze. Camera pans slowly from left to right, capturing the height and seed texture contrasts. Sunlight flickers softly through the leaves, creating dynamic shadows on the ground.",
+      "scene_id": 29,
+      "source_text": "What happens when pea plants showing two different\ncharacteristics, rather than just one, are bred with each other?\nWhat do the progeny of a tall plant with round seeds and a short\nplant with wrinkled-seeds look like? They are all tall and have\nround seeds. Tallness and round seeds are thus dominant traits.\nBut what happens when these F1 progeny are used to generate\nF2 progeny by self-pollination? A Mendelian experiment will find\nthat some F2 progeny are tall plants with round seeds, and some\nwere short plants with wrinkled seeds.  However, there would also\nbe some F2 progeny that showed new combinations. Some of them\nwould be tall, but have wrinkled seeds, while others would be short,\nbut have round seeds. You can see as to how new combinations of\ntraits are formed in F2 offspring when factors controlling for seed\nshape and seed colour recombine to form zygote leading to form\nF2 offspring (Fig. 8.5). Thus, the tall/short trait and the round\nseed/wrinkled seed trait are independently inherited.\n\n---\n**[Figure/Diagram]**\nThe image shows two figures related to Mendelian genetics and the inheritance of traits.\n\n**Figure 8.4**:"
+    },
+    {
+      "narration_text": "Observe Mendel's classic cross: round yellow seeds dominate in F1, with a 3:1 F2 ratio.",
+      "visual_prompt": "A photorealistic, 8k, cinematic depiction of two plants: one with round, green seeds and another with wrinkled, yellow seeds. The environment is a bright, well-lit lab room with a large diagram on a digital screen illustrating the cross between the plants, showcasing genetics visually.",
+      "motion_prompt": "Diagram elements draw themselves on screen sequentially, labels fade in. Camera holds static with slight breathing motion. Digital screen in a lab environment shows animated genetic cross with smooth transitions.",
+      "scene_id": 30,
+      "source_text": "- Displays a classic Mendelian cross involving two traits: seed shape and color.\n- Two parent plants with genotypes RRYY (round, green) and rryy (wrinkled, yellow) are crossed.\n- The F1 generation shows RrYy (round, yellow), indicating dominant traits.\n- The F2 generation is highlighted with a 3:1 phenotypic ratio of round to wrinkled seeds.\n\n**Figure 8.5**:"
+    },
+    {
+      "narration_text": "Observe the dihybrid cross displaying independent assortment with distinct phenotypic ratios in offspring.",
+      "visual_prompt": "A photorealistic, 8k cinematic scene showing a detailed 16-square Punnett square. Each square contains combinations of R (round) and Y (yellow) alleles. Use vibrant colors to differentiate allele combinations. Display phenotypic ratios prominently: 315 round yellow, 108 round green, 101 wrinkled yellow, 32 wrinkled green. The background is a clean, modern laboratory setting with soft lighting to emphasize clarity.",
+      "motion_prompt": "Allele combinations animate filling each Punnett square sequentially, highlighting independent assortment. Camera holds static with slight breathing motion, focusing on the central Punnett square. The lab environment remains softly illuminated, enhancing the educational focus.",
+      "scene_id": 31,
+      "source_text": "- Illustrates a dihybrid cross showing independent assortment.\n- Displays a 16-square Punnett square with combinations of R and Y alleles.\n- Demonstrates phenotypic ratios for F2 progeny:\n  - 315 round, yellow\n  - 108 round, green\n  - 101 wrinkled, yellow\n  - 32 wrinkled, green\n- Total offspring: 556 seeds\n- Shows that the traits for seed shape (round/wrinkled) and seed color (yellow/green) are inherited independently."
+    },
+    {
+      "narration_text": "Genes determine traits, like plant height, through hormones and enzyme efficiency, inherited from parents.",
+      "visual_prompt": "A photorealistic, 8k cinematic close-up of a tall plant in a sunlit greenhouse, showing intricate leaf details and growth markers. Warm lighting highlights the plant's height and health, with sunlight streaming through glass panels.",
+      "motion_prompt": "The plant slowly sways as if in a gentle breeze. Camera pans upward from the base to the top, capturing the plant's height against a backdrop of diffused sunlight. Soft light flickers across the leaves, creating dynamic shadows.",
+      "scene_id": 32,
+      "source_text": "The accompanying text explains gene expression and the role of DNA in determining traits, using the example of plant height linked to hormones and enzyme efficiency. It highlights the importance of genes in controlling characteristics and how progeny inherit genetic information from both parents.\n---"
+    },
+    {
+      "narration_text": "Genes control traits by dictating protein production, affecting plant growth and characteristics.",
+      "visual_prompt": "A photorealistic, 8k cinematic close-up of a DNA strand inside a plant cell, glowing softly with bioluminescent light. The background shows a blurred, serene green environment, suggesting a lush, healthy plant.",
+      "motion_prompt": "The DNA strand gently twists and rotates, illuminating proteins assembling. Camera smoothly zooms in to focus on gene expression. The cellular environment is dynamic, with subtle light reflections and movements.",
+      "scene_id": 33,
+      "source_text": "Figure 8.4\nFigure 8.4\nFigure 8.4\nFigure 8.4\nFigure 8.4\nx\nRR yy\n(round, green)\nrr YY\n(wrinkled, yellow)\nRy\nrY\n8.2.3 How do these Traits get Expressed?\nHow does the mechanism of heredity work? Cellular DNA is\nthe information source for making proteins in the cell. A section\nof DNA that provides information for one protein is called the\ngene for that protein. How do proteins control the\ncharacteristics that we are discussing here? Let us take the\nexample of tallness as a characteristic. We know that plants\nhave hormones that can trigger growth. Plant height can thus\ndepend on the amount of a particular plant hormone. The\namount of the plant hormone made will depend on the\nefficiency of the process for making it. Consider now an enzyme\nthat is important for this process. If this enzyme works\nefficiently, a lot of hormone will be made, and the plant will be\ntall. If the gene for that enzyme has an alteration that makes\nthe enzyme less efficient, the amount of hormone will be less,\nand the plant will be short. Thus, genes control characteristics,\nor traits.\nIf the interpretations of Mendelian experiments we have been\ndiscussing are correct, then both parents must be contributing\nequally to the DNA of the progeny during sexual reproduction.\nWe have disscussed this issue in the previous Chapter. If both\nparents can help determine the trait in the progeny, both parents\nmust be contributing a copy of the same gene. This means that\neach pea plant must have two sets of all genes, one inherited from\neach parent. For this mechanism to work, each germ cell must\nhave only one gene set.\nHow do germ-cells make a single set of genes from the normal two\ncopies that all other cells in the body have? If progeny plants inherited a\nsingle whole gene set from each parent, then the experiment explained\nin Fig. 8.5 cannot work. This is because the two characteristics ‘R’ and\n‘y’ would then be linked to each other and cannot be independently\nF1\nRr Yy\n(round, yellow)\nx\nRr Yy\nF1\nRr Yy\nF1\nRY\nRy\nrY\nry\nF2\nRY\nRRYY\nRRYy\nRrYY\nRrYy\nRy\nRRYy\nRRyy\nRrYy\nRryy\nrY\nRrYY\nRrYy\nrrYY\nrrYy\nry\nRrYy\nRryy\nrrYy\nrryy\n315 round, yellow\n9\n108 round, green\n3\n101 wrinkled, yellow\n3\n32 wrinkled, green\n1\n556 seeds\n16\nFigure 8.5\nFigure 8.5\nFigure 8.5\nFigure 8.5\nFigure 8.5\nIndependent inheritance\nof two separate traits,\nshape and colour of seeds\nHeredity\n131\nReprint 2025-26"
+    },
+    {
+      "narration_text": "Genes are inherited through chromosomes, ensuring DNA stability across generations in all organisms.",
+      "visual_prompt": "A detailed 3D animation of chromosomes as separate DNA strands, in a photorealistic, 8k, cinematic style. The scene should be set inside a cell, illuminated by a soft, ambient light, highlighting the structure of chromosomes. The background should be a blurred, cellular environment to keep focus on the chromosomes.",
+      "motion_prompt": "Chromosomes gently rotate and pair up within the cell. Camera slowly zooms in and pans around them. The cellular environment remains slightly out of focus, adding depth to the scene.",
+      "scene_id": 34,
+      "source_text": "inherited. This is explained by the fact that each gene set is present, not\nas a single long thread of DNA, but as separate independent pieces,\neach called a chromosome. Thus, each cell will have two copies of each\nchromosome, one each from the male and female parents. Every germ-\ncell will take one chromosome from each pair and these may be of either\nmaternal or paternal origin. When two germ cells combine, they will\nrestore the normal number of chromosomes in the progeny, ensuring\nthe stability of the DNA of the species. Such a mechanism of inheritance\nexplains the results of the Mendel experiments, and is used by all\nsexually reproducing organisms. But asexually reproducing organisms\nalso follow similar rules of inheritance. Can we work out how their\ninheritance might work?"
+    },
+    {
+      "narration_text": "Human sex is determined by X and Y chromosomes: XX for females, XY for males.",
+      "visual_prompt": "A photorealistic, 8k, cinematic image showing two human figures. The female figure with XX chromosomes, the male with XY chromosomes. Bright, clear lighting highlights the chromosomes above each figure.",
+      "motion_prompt": "Chromosome pairs gently rotate above each figure, highlighting differences. Camera pans smoothly from female to male figure. Background remains a soft-focus blur, emphasizing the subjects.",
+      "scene_id": 35,
+      "source_text": "---\n**[Figure/Diagram]**\nThe image is a diagram illustrating sex determination in humans. It shows two adult figures, labeled \"Male\" and \"Female,\" each with two X chromosomes (XX) for females and an X and Y chromosome (XY) for males."
+    },
+    {
+      "narration_text": "Sperm and egg unite, forming zygotes with XX or XY chromosomes, determining gender.",
+      "visual_prompt": "A photorealistic, 8k, cinematic scene of a sperm with X or Y chromosome approaching an egg with X chromosome. The environment is a microscopic view inside the human body, with dynamic, soft lighting highlighting the gametes. The background is a blurred, organic texture to enhance focus on the gametes.",
+      "motion_prompt": "Sperm cells swim towards the egg, merging upon contact. Camera zooms in on the fusion point, with a slight rotation. The environment is a fluid, cellular space with subtle movement in the background.",
+      "scene_id": 36,
+      "source_text": "Below the adults, gametes are depicted: sperms with either an X or Y chromosome and an egg with an X chromosome. The fusion of these gametes forms a zygote, shown with possible combinations of XX or XY chromosomes."
+    },
+    {
+      "narration_text": "XX makes a female, XY makes a male. It's all in the chromosomes.",
+      "visual_prompt": "A photorealistic 8k cinematic scene showing a detailed split view of sperm cells, one with an X chromosome and one with a Y chromosome, approaching a large egg cell. The background is a soft focus with warm, ambient lighting.",
+      "motion_prompt": "Sperm cells slowly swim towards the egg, subtly rotating. Camera gently zooms in on the egg, focusing on the interaction. Background blurs slightly as focus shifts.",
+      "scene_id": 37,
+      "source_text": "The diagram explains that females have two X chromosomes, while males have one X and one Y chromosome. During reproduction, the sex of the offspring is determined by which sperm (X or Y chromosome-carrying) fertilizes the egg. An XX combination results in a female, and an XY combination results in a male."
+    },
+    {
+      "narration_text": "In humans, sex is determined by the genetic combination of sex chromosomes from parents.",
+      "visual_prompt": "A photorealistic, 8k, cinematic close-up of a pair of human chromosomes, one X and one Y, intertwined. Soft, focused lighting highlights their structure against a dark, blurred background.",
+      "motion_prompt": "The chromosomes rotate slowly on their axis, revealing their helical structure. Camera gently zooms in, focusing on the intertwining point. Background maintains a soft, diffused look.",
+      "scene_id": 38,
+      "source_text": "The accompanying text discusses different mechanisms of sex determination across species and highlights how, in humans, sex is mainly determined genetically through the combination of sex chromosomes inherited from the parents.\n---"
+    },
+    {
+      "narration_text": "Sex in humans is determined by X or Y chromosome from the father.",
+      "visual_prompt": "Photorealistic, 8k, cinematic illustration of chromosomes, highlighting X and Y chromosomes. Modern laboratory setting, soft lighting with a focus on the chromosomal structure.",
+      "motion_prompt": "Chromosomes rotate slowly in 3D space, highlighting X and Y differences. Camera gently pans around them in a circular motion. Laboratory background is slightly blurred to emphasize focus on chromosomes.",
+      "scene_id": 39,
+      "source_text": "8.2.4 Sex Determination\nWe have discussed the idea that the two sexes participating in sexual\nreproduction must be somewhat different from each other for a number\nof reasons. How is the sex of a newborn individual\ndetermined? Different species use very different strategies\nfor this. Some rely entirely on environmental cues. Thus,\nin some animals like a few reptiles, the temperature at\nwhich fertilised eggs are kept determines whether the\nanimals developing in the eggs will be male or female. In\nother animals, such as snails, individuals can change sex,\nindicating that sex is not genetically determined. However,\nin human beings, the sex of the individual is largely\ngenetically determined. In other words, the genes inherited\nfrom our parents decide whether we will be boys or girls.\nBut so far, we have assumed that similar gene sets are\ninherited from both parents. If that is the case, how can\ngenetic inheritance determine sex?\nThe explanation lies in the fact that all human\nchromosomes are not paired. Most human chromosomes\nhave a maternal and a paternal copy, and we have 22\nsuch pairs. But one pair, called the sex chromosomes, is\nodd in not always being a perfect pair. Women have a\nperfect pair of sex chromosomes, both called X. But men\nhave a mismatched pair in which one is a normal-sized X\nwhile the other is a short one called Y. So women are XX,\nwhile men are XY. Now, can we work out what the\ninheritance pattern of X and Y will be?\nAs Fig. 8.6 shows, half the children will be boys and\nhalf will be girls. All children will inherit an X chromosome\nfrom their mother regardless of whether they are boys or\ngirls. Thus, the sex of the children will be determined by\nwhat they inherit from their father. A child who inherits\nan X chromosome from her father will be a girl, and one\nwho inherits a Y chromosome from him will be a boy.\nFigure 8.6\nFigure 8.6\nFigure 8.6\nFigure 8.6\nFigure 8.6\nSex determination in\nhuman beings\nScience\n132\nReprint 2025-26"
+    },
+    {
+      "narration_text": "Mendel's experiments reveal dominant, recessive traits and independent inheritance patterns in genetics.",
+      "visual_prompt": "A photorealistic 8k cinematic laboratory scene with Mendel's pea plants, vivid green leaves, bright lighting, and detailed genetic diagrams overlayed.",
+      "motion_prompt": "Pea plants grow from seeds, branching upwards. Genetic diagrams animate on screen. Camera gently circles the plants. Sunlight casts moving shadows.",
+      "scene_id": 40,
+      "source_text": "Q\nU\nE\nS\nT\nI\nO\nN\nS\n1.\nHow do Mendel’s experiments show that traits may be dominant or\nrecessive?\n?\n2.\nHow do Mendel’s experiments show that traits are inherited\nindependently?\n3.\nA man with blood group A marries a woman with blood group O and\ntheir daughter has blood group O. Is this information enough to tell you\nwhich of the traits – blood group A or O – is dominant? Why or why not?"
+    },
+    {
+      "narration_text": "Review what you've learned and tackle the exercises to reinforce your understanding.",
+      "visual_prompt": "A classroom setting with a large digital screen displaying educational content. Photorealistic, 8k, cinematic lighting with a focus on clarity and engagement. Students are attentively looking at the screen, which shows outlined key points and exercises.",
+      "motion_prompt": "Text elements and exercises animate onto the screen one by one. Camera gently zooms in on the screen, emphasizing the text. Classroom environment remains static with ambient daylight pouring through the windows.",
+      "scene_id": 41,
+      "source_text": "---\n**[Figure/Diagram]**\nThe image is a section from an educational resource with two parts: \"What you have learnt\" and \"Exercises.\"\n\n**What you have learnt:**"
+    },
+    {
+      "narration_text": "Inherited variations can boost survival. Dominant and recessive genes shape traits and determine sex.",
+      "visual_prompt": "A photorealistic 8k cinematic view of DNA strands intertwining, highlighted gene sequences, and chromosome pairs showing X and Y. Dimly lit, laboratory setting with a focus on genetic material.",
+      "motion_prompt": "DNA strands gently twist and intertwine. Camera smoothly pans across the strands, highlighting gene sequences. Chromosome pairs appear with labels, subtly pulsing. Background lab equipment remains static.",
+      "scene_id": 42,
+      "source_text": "- Variations during reproduction can be inherited.\n- These variations might boost individual survival.\n- Sexually reproducing individuals have two gene copies for each trait. If unequal, the expressed trait is dominant; the other is recessive.\n- Individual traits can be inherited separately, leading to new trait combinations.\n- Sex is determined differently across species. In humans, it relies on the paternal chromosome: X for girls, Y for boys.\n\n**Exercises:**"
+    },
+    {
+      "narration_text": "Tall violet-flowered peas bred with short white ones; what's the tall parent's genetic makeup?",
+      "visual_prompt": "A photorealistic, 8k cinematic scene of two distinct pea plants: one tall with vibrant violet flowers, the other short with pure white flowers. They are set in a lush, sunlit garden with rich green foliage and soft shadows.",
+      "motion_prompt": "The violet flowers sway gently in a light breeze. Camera smoothly pans from tall violet to short white plant. The garden background remains static, emphasizing plant height contrast.",
+      "scene_id": 43,
+      "source_text": "1. A Mendelian experiment bred tall pea plants with violet flowers and short plants with white flowers. Most progeny were violet, some short. Possible genetic composition of the tall parent:\n   - (a) TTww\n   - (b) TTWw\n   - (c) TtWW\n   - (d) TtWw"
+    },
+    {
+      "narration_text": "Genetic traits like eye color are inherited from parents, indicating dominance or recessiveness.",
+      "visual_prompt": "A close-up of a child's light-colored eyes reflecting genetic patterns. Bright, natural lighting enhances detail. Photorealistic, 8k, cinematic.",
+      "motion_prompt": "Child's eyes blink naturally, pupil dilates slightly. Camera zooms in slowly, creating an intimate focus. Soft ambient light highlights eye details.",
+      "scene_id": 44,
+      "source_text": "2. A study found children with light-colored eyes likely had parents with light-colored eyes. Does this indicate whether light eye color is dominant or recessive? Why?\n\n3. Outline a project to determine dominant coat color in dogs.\n---"
+    },
+    {
+      "narration_text": "The child's sex depends on the X or Y chromosome from the father.",
+      "visual_prompt": "A photorealistic, 8k cinematic scene showing a human chromosome with X and Y labeled, surrounded by a DNA helix. Bright focused lighting highlights the chromosomes against a dark, blurred laboratory environment.",
+      "motion_prompt": "The X and Y chromosomes rotate slowly, entwined with a DNA helix. Camera gently zooms in on the chromosomes, creating an immersive focus on their details. The laboratory background remains softly out of focus.",
+      "scene_id": 45,
+      "source_text": "4.\nHow is the sex of the child determined in human beings?\nWhat you have learnt\nn\nVariations arising during the process of reproduction can be inherited.\nn\nThese variations may lead to increased survival of the individuals.\nn\nSexually reproducing individuals have two copies of genes for the same trait. If the\ncopies are not identical, the trait that gets expressed is called the dominant trait\nand the other is called the recessive trait.\nn\nTraits in one individual may be inherited separately, giving rise to new combinations\nof traits in the offspring of sexual reproduction.\nn\nSex is determined by different factors in various species. In human beings, the\nsex of the child depends on whether the paternal chromosome is X (for girls) or Y\n(for boys).\nE\nX\nE\nR\nC\nI\nS\nE\nS\n1.\nA Mendelian experiment consisted of breeding tall pea plants bearing violet flowers\nwith short pea plants bearing white flowers. The progeny all bore violet flowers,\nbut almost half of them were short. This suggests that the genetic make-up of the\ntall parent can be depicted as\n(a)\nTTWW\n(b)\nTTww\n(c)\nTtWW\n(d)\nTtWw\n2.\nA study found that children with light-coloured eyes are likely to have parents\nwith light-coloured eyes. On this basis, can we say anything about whether the\nlight eye colour trait is dominant or recessive? Why or why not?\n3.\nOutline a project which aims to find the dominant coat colour in dogs.\n4.\nHow is the equal genetic contribution of male and female parents ensured in\nthe progeny?\nHeredity\n133\nReprint 2025-26"
+    }
+  ]
+}

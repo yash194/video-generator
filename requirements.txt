@@ -12,8 +12,8 @@ transformers>=4.40.0
 accelerate>=0.28.0
 safetensors
 
-# Audio generation
-parler-tts>=0.2.0
+# Audio generation (Kokoro TTS - best quality)
+kokoro>=0.8.0
 soundfile
 
 # Video processing
